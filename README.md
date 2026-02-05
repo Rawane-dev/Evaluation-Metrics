@@ -54,7 +54,7 @@ In medical diagnostics, missing a sick patient (False Negative) is more critical
 
 1. **Clone the repo:**
    ```bash
-   git clone [https://github.com/Rawane-dev/Evaluation-Metrics]
+   git clone [https://github.com/Rawane-dev/Evaluation-Metrics.git](https://github.com/Rawane-dev/Evaluation-Metrics.git)
 2. **Install Dependencies:**
    ```bash
    pip install pandas numpy scikit-learn ydata-profiling
